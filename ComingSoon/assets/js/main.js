@@ -56,7 +56,6 @@
     onscroll(document, toggleBacktotop)
   }
 
-
   /**
    * Countdown timer
    */
